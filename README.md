@@ -31,9 +31,9 @@ Amount: 113
 Greedy: {50: 2, 10: 1, 2: 1, 1: 1}  
 Dynamic Programming: {50: 2, 10: 1, 2: 1, 1: 1}
 
-Benchmark (seconds):
-amount         greedy           dp
-----------------------------------
+Benchmark (seconds):  
+amount         greedy           dp  
+----------------------------------  
 10           0.000035     0.000048  
 100          0.000036     0.000515  
 1000         0.000036     0.006285  
