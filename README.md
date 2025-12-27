@@ -31,6 +31,7 @@ Amount: 113
 Greedy: {50: 2, 10: 1, 2: 1, 1: 1}  
 Dynamic Programming: {50: 2, 10: 1, 2: 1, 1: 1}
 
+'''text
 Benchmark (seconds):  
 amount         greedy           dp  
 ----------------------------------  
@@ -39,6 +40,7 @@ amount         greedy           dp
 1000         0.000036     0.006285  
 5000         0.000037     0.032394  
 10000        0.000036     0.065003  
+'''
 
 Benchmark results show that:
 
